@@ -13,7 +13,7 @@ A simple Flutter application developed as part of my Flutter learning journey. T
 </p
 
   <p align="center">
-  <img src="WhatsApp Image 2026-10-12 at 21.53.17.jpeg" width="100%" alt="Flutter Task 01 App Screenshot"/>
+  <img src="WhatsApp Image 2026-10-12 at 21.53.17.jpeg" width="50%" height="50%" alt="Flutter Task 01 App Screenshot"/>
 </p>
 
 <p align="center">
