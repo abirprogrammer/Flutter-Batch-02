@@ -1,17 +1,118 @@
-# Fluttter_task_01
+# 🚀 Flutter Task 01
 
-A new Flutter project.
+### Flutter Learning Project | Android Studio
 
-## Getting Started
+A simple Flutter application developed as part of my Flutter learning journey. This project demonstrates basic Flutter UI development, widget composition, layout design, colors, buttons, and application structure.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Screenshot
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<p align="center">
+  <img src="screenshots/flutter_task_01.png" width="300" alt="Flutter Task 01 App Screenshot"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <em>Flutter Task 01 — Application Preview</em>
+</p>
+
+---
+
+## ✨ Features
+
+- 🎨 Colorful and simple user interface
+- 📱 Flutter-based mobile application
+- 🧩 Flutter widgets and layouts
+- 🔘 Interactive buttons
+- 🛠️ Developed using Android Studio
+- 💻 Written in Dart
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Flutter | UI and app development |
+| Dart | Programming language |
+| Android Studio | Development environment |
+| Material Design | UI components |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio
+- Android Emulator or a physical Android device
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Flutter_task_01.git
+```
+
+**2. Open the project folder**
+
+```bash
+cd Flutter_task_01
+```
+
+**3. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+**4. Run the application**
+
+```bash
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+Flutter_task_01/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── test/
+├── pubspec.yaml
+└── README.md
+```
+
+---
+
+## 🎯 Learning Objectives
+
+- Understanding Flutter application structure
+- Practicing StatelessWidget and StatefulWidget
+- Building layouts using Flutter widgets
+- Applying colors, typography, and styling
+- Running and testing an app using Android Studio
+
+---
+
+## 👨‍💻 Developer
+
+**Md. Abir Bin Kabir**
+
+Flutter Developer | Mobile App Development Learner
+
+- GitHub: [@abirprogrammer](https://github.com/abirprogrammer)
+- Facebook: [Connect on Facebook](https://www.facebook.com/ewr.abir.645339)
+
+---
+
+<p align="center">
+  <b>✨ Learning Flutter, One Project at a Time! ✨</b>
+</p>
