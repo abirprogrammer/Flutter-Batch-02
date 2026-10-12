@@ -10,6 +10,10 @@ A simple Flutter application developed as part of my Flutter learning journey. T
 
 <p align="center">
   <img src="Screenshot 2026-10-12 211133.png" width="100%" alt="Flutter Task 01 App Screenshot"/>
+</p
+
+  <p align="center">
+  <img src="Screenshot 2026-10-12 211133.png" width="100%" alt="Flutter Task 01 App Screenshot"/>
 </p>
 
 <p align="center">
