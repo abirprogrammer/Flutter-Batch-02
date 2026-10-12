@@ -9,7 +9,7 @@ A simple Flutter application developed as part of my Flutter learning journey. T
 ## 📱 App Screenshot
 
 <p align="center">
-  <img src="screenshots/flutter_task_01.png" width="300" alt="Flutter Task 01 App Screenshot"/>
+  <img src="Screenshot 2026-10-12 211133.png" width="300" alt="Flutter Task 01 App Screenshot"/>
 </p>
 
 <p align="center">
